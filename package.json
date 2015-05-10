@@ -1,5 +1,5 @@
 {
-  "version": "0.0.0",
+  "version": "1.0.0",
   "name": "@font/nunito",
   "description": "Use the Nunito Google Font with your css pre-processor.",
   "author": {
@@ -9,8 +9,7 @@
   },
   "repository": "joeybaker/font-nunito",
   "license": "Artistic 2.0",
-  "directories": {
-  },
+  "directories": {},
   "keywords": [
     "avenir",
     "css",
