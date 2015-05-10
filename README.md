@@ -1,4 +1,4 @@
-#  [![NPM version][npm-image]][npm-url]
+# Nunito
 
 Use the [Nunito Google Font](https://www.google.com/fonts/specimen/Nunito#charset) with your css pre-processor.
 
