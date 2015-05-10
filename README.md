@@ -8,13 +8,11 @@ It is similar to the popular [Avenir](http://www.fonts.com/font/linotype/avenir)
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
-**Table of Contents**  *generated with [DocToc](http://doctoc.herokuapp.com/)*
+**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
 
 - [Install](#install)
 - [Usage](#usage)
-- [Methods](#methods)
-- [Events](#events)
-- [Tests](#tests)
+- [Variables](#variables)
 - [Developing](#developing)
   - [Requirements](#requirements)
 - [License](#license)
