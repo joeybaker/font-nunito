@@ -41,6 +41,7 @@
     }
   },
   "main": "index.es5",
+  "style": "index.css",
   "devDependencies": {
     "dmn": "^1.0.5",
     "doctoc": "^0.13.0",
